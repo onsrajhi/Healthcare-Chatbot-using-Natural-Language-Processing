@@ -1,0 +1,69 @@
+ailment,remedy,category,severity,preventive_measure
+flu,elderberry syrup,herbal,moderate,vaccination
+flu,oscillococcinum,homeopathic,moderate,hand washing
+flu,garlic soup,food,moderate,immune-boosting diet
+flu,reishi mushroom,supplement,moderate,regular exercise
+common cold,astragalus tea,herbal,mild,avoid sick contacts
+common cold,umcka coldberry,supplement,mild,vitamin D
+common cold,neti pot,therapy,mild,humidifier use
+common cold,propolis lozenges,supplement,mild,face masks
+food poisoning,activated charcoal,emergency,high,food safety
+food poisoning,S. boulardii,probiotic,high,proper food storage
+food poisoning,clay water,traditional,high,water purification
+food poisoning,BRAT diet,food,high,hygiene practices
+migraine,feverfew,herbal,severe,trigger journal
+migraine,riboflavin,supplement,severe,regular sleep
+migraine,cervical adjustment,therapy,severe,posture correction
+migraine,green light therapy,therapy,severe,stress management
+anxiety,L-theanine,supplement,moderate,meditation
+anxiety,valerian root,herbal,moderate,limiting caffeine
+anxiety,grounding techniques,therapy,moderate,therapy
+anxiety,passionflower tea,beverage,moderate,sleep hygiene
+diabetes,cinnamon,herbal,chronic,blood sugar monitoring
+diabetes,bitter melon,food,chronic,low-glycemic diet
+diabetes,berberine,supplement,chronic,regular exercise
+diabetes,fenugreek seeds,food,chronic,weight management
+hypertension,hawthorn berry,herbal,chronic,sodium reduction
+hypertension,beet juice,beverage,chronic,cardio exercise
+hypertension,coenzyme Q10,supplement,chronic,stress reduction
+hypertension,garlic capsules,supplement,chronic,regular checkups
+arthritis,turmeric golden milk,beverage,chronic,anti-inflammatory diet
+arthritis,MSM,supplement,chronic,joint protection
+arthritis,acupuncture,therapy,chronic,low-impact exercise
+arthritis,cherry juice,beverage,chronic,weight control
+eczema,colloidal oatmeal,topical,chronic,moisturizing
+eczema,evening primrose oil,supplement,chronic,allergen avoidance
+eczema,probiotics,supplement,chronic,stress management
+eczema,aloe vera gel,topical,chronic,cotton clothing
+insomnia,glycine,supplement,moderate,sleep schedule
+insomnia,valerian root,herbal,moderate,blue light blocking
+insomnia,4-7-8 breathing,therapy,moderate,bedroom optimization
+insomnia,tart cherry juice,beverage,moderate,caffeine cutoff
+burn,lavender oil,topical,moderate,kitchen safety
+burn,honey dressing,traditional,moderate,sun protection
+burn,aloe vera,topical,moderate,fire safety
+burn,vitamin E oil,topical,moderate,first aid training
+sprain,arnica montana,homeopathic,moderate,proper warmup
+sprain,comfrey salve,herbal,moderate,supportive footwear
+sprain,RICE protocol,emergency,moderate,strength training
+sprain,bromelain,supplement,moderate,flexibility exercises
+pink eye,breast milk,traditional,moderate,hand hygiene
+pink eye,eyebright herb,herbal,moderate,contact lens care
+pink eye,colloidal silver,controversial,moderate,avoid rubbing
+pink eye,cool compress,therapy,moderate,clean towels
+UTI,d-mannose,supplement,moderate,hydration
+UTI,cranberry juice,beverage,moderate,urinate after sex
+UTI,uva ursi,herbal,moderate,cotton underwear
+UTI,probiotics,supplement,moderate,wipe front-to-back
+heartburn,deglycyrrhizinated licorice,herbal,moderate,small meals
+heartburn,slippery elm,beverage,moderate,elevated sleep
+heartburn,apple cider vinegar,beverage,moderate,weight management
+heartburn,aloe vera juice,beverage,moderate,trigger avoidance
+depression,saffron,herbal,severe,therapy
+depression,omega-3s,supplement,severe,social connection
+depression,St. John's Wort,herbal,severe,sun exposure
+depression,exercise,therapy,severe,routine building
+allergic reaction,quercetin,supplement,severe,allergen avoidance
+allergic reaction,butterbur,herbal,severe,HEPA filters
+allergic reaction,nasal irrigation,therapy,severe,local honey
+allergic reaction,vitamin C,supplement,severe,air purifiers
